@@ -1,0 +1,32 @@
+_repo: Life-on-the-Stage--My-Personal-Experiences-and-Recollections_33537
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33537-h/images/coverimage.jpg
+creator:
+  author:
+    agent_name: Morris, Clara
+    aliases:
+    - Harriott, Clara Morris
+    - Morrison, Clara
+    birthdate: 1848
+    deathdate: 1925
+    gutenberg_agent_id: '4972'
+    url: http://www.gutenberg.org/2009/agents/4972
+    wikipedia: http://en.wikipedia.org/wiki/Clara_Morris
+description: ''
+gutenberg_issued: '2010-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33537'
+  lccn: '01026550'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Actors -- Biography'
+- !lcc 'PN'
+- !lcsh 'Morris, Clara, 1848-1925'
+title: 'Life on the Stage: My Personal Experiences and Recollections'
+url: http://www.gutenberg.org/ebooks/33537
